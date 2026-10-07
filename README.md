@@ -123,7 +123,7 @@ SoundWave Studio is a full-stack music streaming web application designed to pro
 
 ---
 
-## 📊 Data Analysis Portfolio
+## 📊 Data Analysis Projects 
 
 **Data Analytics & Business Intelligence Projects**
 
