@@ -163,7 +163,7 @@ A business-oriented data analysis project focused on understanding sales perform
 - Analyzed sales and profit trends
 - Studied product and regional performance
 - Created data visualizations
-- Generated business insights
+- Generated business valuable insights
 - Developed a Power BI dashboard
 
 ---
